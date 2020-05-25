@@ -6,3 +6,17 @@ console.log(
     variavelSimInicializacao,
     typeof(variavelSimInicializacao)
 )
+
+variavelSimInicializacao = "Hello World"
+
+console.log(
+    variavelSimInicializacao,
+    typeof(variavelSimInicializacao)
+)
+
+variavelSimInicializacao = null
+
+console.log(
+    variavelSimInicializacao,
+    typeof(variavelSimInicializacao)
+)
